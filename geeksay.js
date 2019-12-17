@@ -171,7 +171,8 @@ const quotes = [
     "Live, laugh, love", // live, laugh, <3
     "Green with envy", // #00ff00 with envy
     "live and learn", // live && learn
-    "Until death do us part", //Until BSOD do us part
+    "Until death do us part", // Until BSOD do us part
+    "Forget it", // ctrl+z it 
 ]
 
 function isNumeric(num) {

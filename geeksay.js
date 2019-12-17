@@ -173,6 +173,7 @@ const quotes = [
     "Live and learn", // live && learn
     "Until death do us part", // Until BSOD do us part
     "Forget it", // ctrl+z it 
+    "God give me the strength" // root give me the strength
 ]
 
 function isNumeric(num) {
